@@ -1,0 +1,258 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\recommendfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\recommendfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|e:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\foodmanagementapplication\\foodmanagementapplication\\recommendfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\recommendfoodform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\calculatecaloryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\calculatecaloryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\calculatecaloryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\calculatecaloryform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\shoppingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\shoppingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\shoppingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\shoppingform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\listviewitemcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\listviewitemcomparator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\ingredientmeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\ingredientmeasurement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\datasaveformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\datasaveformat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\recipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\recipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\recipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\recipeform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\ingredientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\ingredientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\foodmanagementapplication\\ingredientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{894093E8-7BB6-401E-8B57-E1BDF43D862D}|FoodManagementApplication\\FoodManagementApplication.csproj|solutionrelative:foodmanagementapplication\\ingredientform.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 208,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ShoppingForm.cs",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\ShoppingForm.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\ShoppingForm.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\ShoppingForm.cs",
+              "RelativeToolTip": "FoodManagementApplication\\ShoppingForm.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAApwA4AAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:13:12.886Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ShoppingForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\ShoppingForm.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\ShoppingForm.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\ShoppingForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FoodManagementApplication\\ShoppingForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T09:13:10.437Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CalculateCaloryForm.cs",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\CalculateCaloryForm.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\CalculateCaloryForm.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\CalculateCaloryForm.cs",
+              "RelativeToolTip": "FoodManagementApplication\\CalculateCaloryForm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAswBQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:50:33.931Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CalculateCaloryForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\CalculateCaloryForm.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\CalculateCaloryForm.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\CalculateCaloryForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FoodManagementApplication\\CalculateCaloryForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:49:34.098Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RecommendFoodForm.cs",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\RecommendFoodForm.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\RecommendFoodForm.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\RecommendFoodForm.cs",
+              "RelativeToolTip": "FoodManagementApplication\\RecommendFoodForm.cs",
+              "ViewState": "AQIAAGkAAAAAAAAAAAASwHsAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:06:28.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RecommendFoodForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\RecommendFoodForm.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\RecommendFoodForm.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\RecommendFoodForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FoodManagementApplication\\RecommendFoodForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T08:06:26.719Z",
+              "EditorCaption": " [\uB514\uC790\uC778]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RecipeForm.cs",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\RecipeForm.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\RecipeForm.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\RecipeForm.cs",
+              "RelativeToolTip": "FoodManagementApplication\\RecipeForm.cs",
+              "ViewState": "AQIAAMkAAAAAAAAAAAAuwN4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:39:03.38Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "RecipeForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\RecipeForm.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\RecipeForm.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\RecipeForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FoodManagementApplication\\RecipeForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:39:01.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "DataSaveFormat.cs",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\DataSaveFormat.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\DataSaveFormat.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\DataSaveFormat.cs",
+              "RelativeToolTip": "FoodManagementApplication\\DataSaveFormat.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:05:11.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\Program.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\Program.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\Program.cs",
+              "RelativeToolTip": "FoodManagementApplication\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:02:25.459Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ListViewItemComparator.cs",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\ListViewItemComparator.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\ListViewItemComparator.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\ListViewItemComparator.cs",
+              "RelativeToolTip": "FoodManagementApplication\\ListViewItemComparator.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAmwCYAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:02:21.764Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "IngredientMeasurement.cs",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\IngredientMeasurement.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\IngredientMeasurement.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\IngredientMeasurement.cs",
+              "RelativeToolTip": "FoodManagementApplication\\IngredientMeasurement.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAADwvwwAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T04:02:18.708Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "IngredientForm.cs",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\IngredientForm.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\IngredientForm.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\IngredientForm.cs",
+              "RelativeToolTip": "FoodManagementApplication\\IngredientForm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:58:08.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "IngredientForm.cs [\uB514\uC790\uC778]",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\IngredientForm.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\IngredientForm.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\IngredientForm.cs [\uB514\uC790\uC778]",
+              "RelativeToolTip": "FoodManagementApplication\\IngredientForm.cs [\uB514\uC790\uC778]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T03:58:05.143Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Database.cs",
+              "DocumentMoniker": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\Database.cs",
+              "RelativeDocumentMoniker": "FoodManagementApplication\\Database.cs",
+              "ToolTip": "E:\\\uD559\uAD50\uACF5\uBD80\\2024_1\uD559\uAE30\\\uC708\uB3C4\uC6B0\uD504\uB85C\uADF8\uB798\uBC0D\\\uAE30\uB9D0\uD504\uB85C\uC81D\uD2B8\\FoodManagementApplication\\FoodManagementApplication\\Database.cs",
+              "RelativeToolTip": "FoodManagementApplication\\Database.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAIAywCIAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:27:52.265Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
